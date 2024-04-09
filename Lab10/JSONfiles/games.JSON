@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "release_year": "2023",
+        "publisher": "Nintendo",
+        "genre": "Action-adventure",
+        "copies_sold": 3895159
+    },
+    {
+        "title": "Hogwarts Legacy",
+        "release_year": "2023",
+        "publisher": "Warner Bros. Games",
+        "genre": "Action role-playing",
+        "copies_sold": 542385
+    },
+    {
+        "title": "Animal Crossing: New Horizons",
+        "release_year": "2020",
+        "publisher": "Nintendo",
+        "genre": "Social simulation",
+        "copies_sold": 764713
+    },
+    {
+        "title": "Assassin's Creed IV: Black Flag",
+        "release_year": "2013",
+        "publisher": "Ubisoft",
+        "genre": "Action-adventure, stealth",
+        "copies_sold": 819934
+    }
+]
